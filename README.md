@@ -1,0 +1,2 @@
+# scip
+scip exercises 
